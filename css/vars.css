@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "DIN Pro";
+  src: url("../font/din_pro.eot");
+  /* IE 9 Compatibility Mode */
+  src: url("../font/din_pro.eot?#iefix") format("embedded-opentype"), url("../font/din_pro.woff2") format("woff2"), url("../font/din_pro.woff") format("woff"), url("../font/din_pro.ttf") format("truetype"), url("../font/din_pro.svg#din_pro") format("svg");
+  /* Chrome < 4, Legacy iOS */
+}
+
+@supports (-webkit-appearance:none) {
+
+}
